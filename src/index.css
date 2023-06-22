@@ -1,0 +1,11 @@
+div{
+  width:100%;
+  height:100vh;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Dancing Script', cursive;
+  /*background: linear-gradient(45deg,#433e3c, #5e5a53,#d49f9f,#bf4444,#ff4039,#bf4444,#d49f9f, #5e5a53,#433e3c); */
+  background: linear-gradient(45deg,magenta,rgb(210, 99, 164), teal,#d49f9f,rgb(6, 185, 185),#d49f9f, teal,rgb(210, 99, 164),rgb(216, 84, 216));
+}
